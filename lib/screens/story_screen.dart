@@ -31,6 +31,7 @@ class _StoryScreenState extends State<StoryScreen> {
     for (var _ in widget.products) {
       precentagesProgress.add(0.0);
     }
+
     _watchingProgress();
   }
 

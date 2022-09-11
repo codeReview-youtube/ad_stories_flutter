@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:ad_stories/products.dart';
 import 'package:ad_stories/screens/story_screen.dart';
 import 'package:flutter/material.dart';
